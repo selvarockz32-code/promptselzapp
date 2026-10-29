@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { Icon } from "@/components/icons";
 import { PLAY_STORE_URL } from "@/components/store-link";
 
-const REDIRECT_DELAY_MS = 4000;
+const REDIRECT_DELAY_MS = 3000;
 
 export function RedirectNotice() {
   const [secondsRemaining, setSecondsRemaining] = useState(4);
