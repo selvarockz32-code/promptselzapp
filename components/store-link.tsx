@@ -1,7 +1,7 @@
 import { Icon } from "@/components/icons";
 
 export const PLAY_STORE_URL =
-  "https://play.google.com/store/apps/details?id=com.selva.promptselz&utm_source=chatgpt.com";
+  "https://play.google.com/store/apps/details?id=com.selva.promptselz";
 
 type StoreLinkProps = {
   children?: string;

@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
           {
             key: "Refresh",
             value:
-              "4; url=https://play.google.com/store/apps/details?id=com.selva.promptselz&utm_source=chatgpt.com",
+              "4; url=https://play.google.com/store/apps/details?id=com.selva.promptselz",
           },
         ],
       },
